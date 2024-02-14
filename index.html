@@ -13,41 +13,48 @@
 </head>
 
 <body>
+    <!--! ------------------------------- -->
+    <!--!            CONTAINER            -->
+    <!--! ------------------------------- -->
     <div class="container">
-    <header class="screen">
-        <h1>KINO POTSDAM</h1>
-        <img src="./assets/cinema.jpg" alt="">
+        <!--^ ------------------------------- -->
+        <!--^             HEADER              -->
+        <!--^ ------------------------------- -->
+        <header class="screen">
+            <h1>KINO POTSDAM</h1>
+            <img src="./assets/cinema.jpg" alt="">
+        </header>
 
-    </header>
-    <main>
+        <!--^ ------------------------------- -->
+        <!--^           MOVIE LIST            -->
+        <!--^ ------------------------------- -->
+            <div class="movie-list">
+                <div class="swiper">
+                    <h2>Bitte wählen Sie einen Film, aus den Sie schauen möchten</h2>
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img class="film1" src="./assets/img1.jpg" alt="film1" id="film">
+                        </div>
+                        <div class="swiper-slide">
+                            <img class="film2" src="/assets/img2.jpg" alt="film2" id="film">
+                        </div>
+                        <div class="swiper-slide">
+                            <img class="film3" src="./assets/img3.jpg" alt="film3" id="film">
+                        </div>
+                        <div class="swiper-slide">
+                            <img class="film4" src="./assets/img4.jpg" alt="film4" id="film">
+                        </div>
+                        <div class="swiper-slide">
+                            <img class="film5" src="./assets/img5.jpg" alt="film5" id="film">
+                        </div>
 
-        <div class="movie-list">
-        <div class="swiper">
-            <h2>Bitte wählen Sie einen Film, aus den Sie schauen möchten</h2>
-            <div class="swiper-wrapper film-section ">
-                <div class="swiper-slide film-1 selection">
-                    <img class="film1" src="./assets/img1.jpg" alt="film1" id="film">
+                    </div>
                 </div>
-                <div class="swiper-slide film-2 selection">
-                    <img class="film2" src="/assets/img2.jpg" alt="film2" id="film">
-                </div>
-                <div class="swiper-slide film-3 selection">
-                    <img class="film3" src="./assets/img3.jpg" alt="film3" id="film">
-                </div>
-                <div class="swiper-slide film-4 selection">
-                    <img class="film4" src="./assets/img4.jpg" alt="film4" id="film">
-                </div>
-                <div class="swiper-slide film-4 selection">
-                    <img class="film5" src="./assets/img5.jpg" alt="film5" id="film">
-                </div>
-
             </div>
-        </div>
-    </div>
     </div>
 
-        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-        <script src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="main.js"></script>
 </body>
 
 </html>
