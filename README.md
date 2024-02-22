@@ -1,7 +1,5 @@
 # Cinema-Potsdam
 
-## CINEMA-POTSDAM
-
 
 ## Description
 
