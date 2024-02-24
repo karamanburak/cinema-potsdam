@@ -46,3 +46,7 @@ CINEMA-POTSDAM (folder)
 |----style.css
 
 ```
+
+## Expected Outcome
+
+![Project Snapshot](./assets/project.gif)
