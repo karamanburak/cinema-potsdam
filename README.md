@@ -1,5 +1,5 @@
 # Cinema-Potsdam
-- <a href="https://karamanburak.github.io/Cinema-Potsdam/" rel="noFollow">Access the finished project online</a>
+- <a href="https://karamanburak.github.io/cinema-potsdam/" rel="noFollow">Access the finished project online</a>
 
 ## Description
 
