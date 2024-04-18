@@ -1,4 +1,4 @@
-# Cinema-Potsdam
+# cinema-potsdam
 - <a href="https://karamanburak.github.io/cinema-potsdam/" rel="noFollow">Access the finished project online</a>
 
 ## Description
@@ -47,6 +47,6 @@ CINEMA-POTSDAM (folder)
 
 ```
 
-## Expected Outcome
+## Outcome
 
 ![Project Snapshot](./assets/project.gif)
